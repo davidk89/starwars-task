@@ -51,3 +51,7 @@ No mockups but would be great if you make that app pretty :)
 ## Delivery
 Delivery the application by link to public repo or zip file
 
+
+# Done
+
+The tasks above took me 3 hours to complete.
